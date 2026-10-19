@@ -5,7 +5,7 @@
 - 🔭 Currently building scalable web apps with **Laravel, Livewire, and Vue**
 - 🌱 Exploring advanced real-time systems with **Socket.io and TypeScript**
 - 💬 Ask me about **Full-Stack Architecture, REST APIs, or Database Design**
-- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://x.com/yourhandle) | [Portfolio](https://yourportfolio.com)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/oluwafemi-saliu-18526a89/) | [Portfolio](https://saliu-portfolio.vercel.app)
 
 ---
 
